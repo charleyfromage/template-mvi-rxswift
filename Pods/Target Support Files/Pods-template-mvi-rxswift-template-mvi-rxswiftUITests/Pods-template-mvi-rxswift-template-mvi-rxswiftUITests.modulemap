@@ -1,0 +1,6 @@
+framework module Pods_template_mvi_rxswift_template_mvi_rxswiftUITests {
+  umbrella header "Pods-template-mvi-rxswift-template-mvi-rxswiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
